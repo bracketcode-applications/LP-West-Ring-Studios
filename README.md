@@ -1,61 +1,31 @@
-# [Start Bootstrap - Scrolling Nav](https://startbootstrap.com/templates/scrolling-nav/)
+# [West Ring Landing Page - Resume](https://technicalmanager.io/)
 
-[Scrolling Nav](https://startbootstrap.com/templates/scrolling-nav/) is an unstyled one page starter template with a collapsing, smooth scrolling navigation bar for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/).
+The West Ring webpage was developed as a demo showcasing design ideas for a basic landing page that can be used in an online campaign. This demo specifically promotes a fake recording studio but the page structure can be customized and adopted for other types of businesses by swapping out image assets and content.
+
+Development of West Ring landing page was based on the open-source [Start Bootstrap](https://startbootstrap.com/) theme called [Resume](https://startbootstrap.com/theme/resume/).
+
+All other front-end development and content customization was done by webpage owner: [Albert Nera](https://www.technicalmanager.io).
 
 ## Preview
 
-[![Scrolling Nav Preview](https://startbootstrap.com/assets/img/screenshots/templates/scrolling-nav.png)](https://startbootstrap.github.io/startbootstrap-scrolling-nav/)
+[![West Ring Preview](https://img.www-source.net/west-ring/github-preview.jpg)](https://technicalmanager.io/)
 
-**[View Live Preview](https://startbootstrap.github.io/startbootstrap-scrolling-nav/)**
+**[View Live Preview](https://technicalmanager.io/)**
 
-## Status
-
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/StartBootstrap/startbootstrap-scrolling-nav/master/LICENSE)
-[![npm version](https://img.shields.io/npm/v/startbootstrap-scrolling-nav.svg)](https://www.npmjs.com/package/startbootstrap-scrolling-nav)
-[![Build Status](https://travis-ci.org/StartBootstrap/startbootstrap-scrolling-nav.svg?branch=master)](https://travis-ci.org/StartBootstrap/startbootstrap-scrolling-nav)
-[![dependencies Status](https://david-dm.org/StartBootstrap/startbootstrap-scrolling-nav/status.svg)](https://david-dm.org/StartBootstrap/startbootstrap-scrolling-nav)
-[![devDependencies Status](https://david-dm.org/StartBootstrap/startbootstrap-scrolling-nav/dev-status.svg)](https://david-dm.org/StartBootstrap/startbootstrap-scrolling-nav?type=dev)
-
-## Download and Installation
-
-To begin using this template, choose one of the following options to get started:
-
-* [Download the latest release on Start Bootstrap](https://startbootstrap.com/templates/scrolling-nav/)
-* Install via npm: `npm i startbootstrap-scrolling-nav`
-* Clone the repo: `git clone https://github.com/StartBootstrap/startbootstrap-scrolling-nav.git`
-* [Fork, Clone, or Download on GitHub](https://github.com/StartBootstrap/startbootstrap-scrolling-nav)
 
 ## Usage
 
 ### Basic Usage
 
-After downloading, simply edit the HTML and CSS files included with the template in your favorite text editor to make changes. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the `index.html` file in your web browser.
+The source code for the West Ring landing page is being provided openly for the purpose of code review and made available for forking or download under MIT License. Feel free to use the source code as a starter template for your own personal resume/personal website.
 
-### Advanced Usage
+## License
 
-After installation, run `npm install` and then run `npm start` which will open up a preview of the template in your default browser, watch for changes to core template files, and live reload the browser when changes are saved. You can view the `gulpfile.js` to see which tasks are included with the dev environment.
+Code released under the [MIT](https://github.com/#) license.
 
-You must have npm and Gulp installed globally on your machine in order to use these features.
+=======================
+## Report Issues
 
-## Bugs and Issues
+Found a bug? Please [click here](https://github.com/techmanager/LP-West-Ring-Studios/issues/new) to report a new issue. 
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/StartBootstrap/startbootstrap-scrolling-nav/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](https://startbootstrap.com/templates/scrolling-nav/).
-
-## About
-
-Start Bootstrap is an open source library of free Bootstrap templates and themes. All of the free templates and themes on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
-
-* <https://startbootstrap.com>
-* <https://twitter.com/SBootstrap>
-
-Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**.
-
-* <http://davidmiller.io>
-* <https://twitter.com/davidmillerskt>
-* <https://github.com/davidtmiller>
-
-Start Bootstrap is based on the [Bootstrap](https://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
-
-## Copyright and License
-
-Copyright 2013-2020 Start Bootstrap LLC. Code released under the [MIT](https://github.com/StartBootstrap/startbootstrap-scrolling-nav/blob/gh-pages/LICENSE) license.
+Thanks for your contribution!
