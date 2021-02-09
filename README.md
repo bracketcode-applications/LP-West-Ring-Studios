@@ -1,4 +1,4 @@
-# [West Ring Landing Page](https://technicalmanager.io/)
+# [West Ring Landing Page](https://apps.www-source.net/samples/west-ring/)
 
 The West Ring webpage was developed as a demo showcasing design ideas for a basic landing page that can be used in an online campaign. This demo specifically promotes a fake recording studio but the page structure can be customized and adopted for other types of businesses by swapping out image assets and content.
 
@@ -8,9 +8,9 @@ All other front-end development and content customization was done by webpage ow
 
 ## Preview
 
-[![West Ring Preview](https://img.www-source.net/west-ring/github-preview.jpg)](https://technicalmanager.io/)
+[![West Ring Preview](https://img.www-source.net/west-ring/github-preview.jpg)](https://apps.www-source.net/samples/west-ring/)
 
-**[View Live Preview](https://technicalmanager.io/)**
+**[View Live Preview](https://apps.www-source.net/samples/west-ring/)**
 
 
 ## Usage
@@ -21,7 +21,7 @@ The source code for the West Ring landing page is being provided openly for the 
 
 ## License
 
-Code released under the [MIT](https://github.com/#) license.
+Code released under the [MIT](https://apps.www-source.net/samples/west-ring/LICENSE) license.
 
 =======================
 ## Report Issues
