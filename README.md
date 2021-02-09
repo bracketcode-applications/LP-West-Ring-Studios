@@ -1,4 +1,4 @@
-# [West Ring Landing Page - Resume](https://technicalmanager.io/)
+# [West Ring Landing Page](https://technicalmanager.io/)
 
 The West Ring webpage was developed as a demo showcasing design ideas for a basic landing page that can be used in an online campaign. This demo specifically promotes a fake recording studio but the page structure can be customized and adopted for other types of businesses by swapping out image assets and content.
 
